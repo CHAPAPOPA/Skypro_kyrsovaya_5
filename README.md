@@ -10,6 +10,7 @@
 - PostgreSQL
 - psycopg2 (для работы с PostgreSQL)
 - requests (для работы с API hh.ru)
+- pytest
 
 ## Установка и запуск 
 
